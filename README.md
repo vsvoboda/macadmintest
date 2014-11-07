@@ -1,4 +1,4 @@
 macadmintest
 ============
 
-class test
+I don't think I like this class too much. ngl
