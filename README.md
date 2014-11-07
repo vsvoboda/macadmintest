@@ -1,0 +1,4 @@
+macadmintest
+============
+
+class test
